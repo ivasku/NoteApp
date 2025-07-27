@@ -172,7 +172,7 @@ db.dropDatabase()
 
 ## 📚 Documentation
 
-- [Test Plan](TEST_PLAN.md) - Comprehensive testing strategy
+- [Test Plan](Test-Plan.md) - Comprehensive testing strategy
 
 ## 🔄 CI/CD
 
