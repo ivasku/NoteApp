@@ -135,6 +135,7 @@ notes-app/
 - Playwright (E2E)
 - Newman/Postman (API)
 - GitHub Actions (CI)
+- Code coverage reports (visible inside the console when tests are runned)
 
 ## 📊 Test Reports
 
